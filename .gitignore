@@ -1,0 +1,18 @@
+#LO TÍPICO QUE SALE SIEMPRE
+.DStorage
+*.o
+libftprintf.a
+*test*
+libft.a
+objs/
+.vscode
+*.dsYM
+a.out
+
+#ESPECIFICOS DE PROYECTO
+so_long
+so_long_bonus
+map
+libmlx.a
+*.png
+unused/
